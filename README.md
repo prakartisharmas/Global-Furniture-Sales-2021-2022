@@ -2,7 +2,7 @@
 
 <img width="1296" height="727" alt="Snapshot of Dashboard (2)" src="https://github.com/user-attachments/assets/02f8a430-14e1-489a-b01f-f634dbf8ae62" />
 
-
+[View Dataset](https://github.com/prakartisharmas/Global-Furniture-Sales-2021-2022/blob/main/global_fruniture_dataset.xlsx)
 
 ## Global Furniture Sales Dashboard :
 An interactive business intelligence solution built in Power BI to provide a comprehensive view of sales performance, profitability, and customer trends across multiple regions and product categories. The project focuses on transforming raw sales data into actionable insights to support strategic decision-making in the global furniture market.
