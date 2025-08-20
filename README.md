@@ -51,8 +51,8 @@ Implemented conditional formatting for quick insight recognition.
 
 ## Outcomes & Impact:
 
--Improved visibility into sales drivers across global markets.
--Enabled data-driven decision-making for market expansion and inventory optimization.
+-Improved visibility into sales drivers across global markets.  
+-Enabled data-driven decision-making for market expansion and inventory optimization.  
 -Reduced reporting time by consolidating multiple static reports into a single interactive dashboard.
 
 IMAGE: https://github.com/prakartisharmas/Global-Furniture-Sales-2021-2022/blob/main/Snapshot%20of%20Dashboard%20(2).png
